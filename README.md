@@ -1,3 +1,8 @@
+# Instead of js, copilot made wordle in python.
+[Look here](https://github.com/Nikolailb/wordle-clone-copilot)
+
+
+
 # AI for Software Development Day 1 Exercise
 
 ## Learning Objectives
